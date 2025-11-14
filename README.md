@@ -1,9 +1,11 @@
 <!-- Banner futurista -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%">
+  <img src="https://img.freepik.com/free-vector/futuristic-technology-background-with-digital-lines_1017-30367.jpg" width="100%">
 </p>
 
+
 <h1 align="center">👋 Olá, eu sou o Guilherme!</h1>
+
 
 <p align="center">
   🚀 Bem-vindo ao meu universo tecnológico!  
@@ -48,7 +50,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300px">
+  <img src="https://img.freepik.com/free-vector/abstract-futuristic-background_23-2148396112.jpg" width="300px">
 </p>
 
 <h3 align="center">⭐️ Se você gostou do meu perfil, não esqueça de dar uma estrela nos repositórios!</h3>
