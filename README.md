@@ -3,9 +3,7 @@
   <img src="https://ih1.redbubble.net/image.1922617660.4282/raf,360x360,075,t,fafafa:ca443f4786.jpg" width="100%">
 </p>
 
-
 <h1 align="center">👋 Olá, eu sou o Guilherme!</h1>
-
 
 <p align="center">
   🚀 Bem-vindo ao meu universo tecnológico!  
@@ -44,4 +42,14 @@
 
 ✨ Projetos em destaque
 - 📱 [Site Confeitaria](https://github.com/GuilhermeRighi09/confeitariasempredoce)
-- 🌐 [Site Empresa Fictícia](https://github.com/GuilhermeRighi09/custom
+- 🌐 [Site Empresa Fictícia](https://github.com/GuilhermeRighi09/customizer.html)
+- 📈 [Projeto em Análise de Dados](https://github.com/GuilhermeRighi09/dashboards_GuiRighi)
+
+
+
+<!-- Imagem de despedida estilo código -->
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/programming-code-screen-laptop-dark-background_1017-30366.jpg" width="100%">
+</p>
+
+<h3 align="center">⭐️ Se você gostou do meu perfil, não esqueça de dar uma estrela nos repositórios!</h3>
