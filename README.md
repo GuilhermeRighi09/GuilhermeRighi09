@@ -1,7 +1,7 @@
 <!-- Banner futurista -->
 <p align="center">
   <img src="https://ih1.redbubble.net/image.1922617660.4282/raf,360x360,075,t,fafafa:ca443f4786.jpg" 
-       width="100%" height="200px" style="object-fit: cover; border-radius: 8px; filter: brightness(70%);">
+       width="100%" height="300px" style="object-fit: cover; border-radius: 8px; filter: brightness(70%);">
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Guilherme!</h1>
@@ -33,6 +33,34 @@
 
 
 
+📊 Estatísticas do GitHub
+<p align="center">
+  <!-- Stats principais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeRighi09&show_icons=true&theme=radical" width="450px">
+</p>
+
+<p align="center">
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRighi09&layout=compact&theme=radical" width="400px">
+</p>
+
+<p align="center">
+  <!-- Gráfico em pizza -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRighi09&layout=pie&theme=radical" width="400px">
+</p>
+
+<p align="center">
+  <!-- Streak (dias seguidos de contribuição) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeRighi09&theme=radical" width="450px">
+</p>
+
+<p align="center">
+  <!-- Contribuições em gráfico -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuilhermeRighi09&theme=radical" width="450px">
+</p>
+
+
+
 🌐 Conecte-se comigo
 <p align="center">
   <a href="https://linkedin.com/in/guilherme-righi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -48,10 +76,10 @@
 
 
 
-<!-- Rodapé com código de programação -->
+<!-- Rodapé com imagem de programação -->
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/programming-code-screen-laptop-dark-background_1017-30366.jpg" 
-       width="100%" height="300px" style="object-fit: cover; border-radius: 8px; filter: brightness(70%);">
+  <img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" 
+       width="100%" height="250px" style="object-fit: cover; border-radius: 8px; filter: brightness(80%);">
 </p>
 
 <h3 align="center">⭐️ Se você gostou do meu perfil, não esqueça de dar uma estrela nos repositórios!</h3>
