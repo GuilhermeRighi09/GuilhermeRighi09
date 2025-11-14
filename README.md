@@ -1,6 +1,6 @@
 <!-- Banner futurista -->
 <p align="center">
-  <img src="https://ih1.redbubble.net/image.1922617660.4282/raf,360x360,075,t,fafafa:ca443f4786.jpg" width="600px">
+  <img src="https://ih1.redbubble.net/image.1922617660.4282/raf,360x360,075,t,fafafa:ca443f4786.jpg" width="400px">
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Guilherme!</h1>
@@ -22,8 +22,8 @@
 
 🛠️ Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML-FF4500?style=for-the-badge&logo=html&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-1E90FF?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-2F4F4F?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
@@ -49,7 +49,7 @@
 
 <!-- Imagem de despedida estilo código -->
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/programming-code-screen-laptop-dark-background_1017-30366.jpg" width="600px">
+  <img src="https://img.freepik.com/free-vector/programming-code-screen-laptop-dark-background_1017-30366.jpg" width="400px">
 </p>
 
 <h3 align="center">⭐️ Se você gostou do meu perfil, não esqueça de dar uma estrela nos repositórios!</h3>
