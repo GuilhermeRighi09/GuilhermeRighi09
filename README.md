@@ -1,6 +1,6 @@
 <!-- Banner futurista -->
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/futuristic-technology-background-with-digital-lines_1017-30367.jpg" width="100%">
+  <img src="https://ih1.redbubble.net/image.1922617660.4282/raf,360x360,075,t,fafafa:ca443f4786.jpg" width="100%">
 </p>
 
 
@@ -44,13 +44,4 @@
 
 ✨ Projetos em destaque
 - 📱 [Site Confeitaria](https://github.com/GuilhermeRighi09/confeitariasempredoce)
-- 🌐 [Site Empresa Fictícia](https://github.com/GuilhermeRighi09/customizer.html)
-- 📈 [Projeto em Análise de Dados](https://github.com/GuilhermeRighi09/dashboards_GuiRighi)
-
-
-
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/abstract-futuristic-background_23-2148396112.jpg" width="300px">
-</p>
-
-<h3 align="center">⭐️ Se você gostou do meu perfil, não esqueça de dar uma estrela nos repositórios!</h3>
+- 🌐 [Site Empresa Fictícia](https://github.com/GuilhermeRighi09/custom
