@@ -1,4 +1,4 @@
-<!-- Banner futurista com gradiente -->
+<!-- Banner futurista -->
 <p align="center">
   <img src="https://ih1.redbubble.net/image.1922617660.4282/raf,360x360,075,t,fafafa:ca443f4786.jpg" 
        width="100%" height="200px" style="object-fit: cover; border-radius: 8px; filter: brightness(70%);">
@@ -48,10 +48,10 @@
 
 
 
-<!-- Rodapé futurista com gradiente -->
+<!-- Rodapé com código de programação -->
 <p align="center">
   <img src="https://img.freepik.com/free-vector/programming-code-screen-laptop-dark-background_1017-30366.jpg" 
-       width="100%" height="200px" style="object-fit: cover; border-radius: 8px; filter: brightness(70%);">
+       width="100%" height="300px" style="object-fit: cover; border-radius: 8px; filter: brightness(70%);">
 </p>
 
 <h3 align="center">⭐️ Se você gostou do meu perfil, não esqueça de dar uma estrela nos repositórios!</h3>
