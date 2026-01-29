@@ -29,13 +29,6 @@
 </div>
 
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GuilhermeRighi09/GuilhermeRighi09/output/pacman-contribution-graph.svg" alt="Pacman Graph" width="100%" />
-</div>
-
----
-
  🧑‍💻 Sobre mim
 
 -  Atualmente cursando **Análise e Desenvolvimento de Sistemas**
