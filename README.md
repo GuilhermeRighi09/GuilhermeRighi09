@@ -1,85 +1,70 @@
-<!-- Banner futurista -->
-<p align="center">
-  <img src="https://ih1.redbubble.net/image.1922617660.4282/raf,360x360,075,t,fafafa:ca443f4786.jpg" 
-       width="100%" height="300px" style="object-fit: cover; border-radius: 8px; filter: brightness(70%);">
-</p>
+<h1 align="center">Olá, eu sou o Guilherme!</h1>
 
-<h1 align="center">👋 Olá, eu sou o Guilherme!</h1>
+<h3 align="center">Bem-vindo ao meu universo tecnológico!</h3>
 
 <p align="center">
-  🚀 Bem-vindo ao meu universo tecnológico!  
-  Sou apaixonado por programação, inovação e por explorar o futuro da tecnologia.  
+  Sou apaixonado por programação, inovação e por explorar o futuro da tecnologia.<br>
+  Adoro criar soluções criativas pensando sempre na <b>usabilidade e experiência do usuário</b>.
 </p>
 
-
-
-🧑‍💻 Sobre mim
-- 🔭 Atualmente cursando **Análise e Desenvolvimento de Sistemas**
-- 🌱 Estudando **JavaScript, SQL e Python**
-- 🎯 Objetivo: me tornar um **desenvolvedor completo**
-- ⚡ Curiosidade: adoro criar soluções criativas pensando sempre na **usabilidade e experiência do usuário**
-
-
-
-🛠️ Tecnologias e Ferramentas
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML-FF4500?style=for-the-badge&logo=html&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS-1E90FF?style=for-the-badge&logo=css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-2F4F4F?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C-191970?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/guilherme-righi">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://instagram.com/guirighi09">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+</div>
 
 
 
-📊 Estatísticas do GitHub
-<p align="center">
-  <!-- Stats principais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeRighi09&show_icons=true&theme=radical" width="450px">
-</p>
-
-<p align="center">
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRighi09&layout=compact&theme=radical" width="400px">
-</p>
-
-<p align="center">
-  <!-- Gráfico em pizza -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRighi09&layout=pie&theme=radical" width="400px">
-</p>
-
-<p align="center">
-  <!-- Streak (dias seguidos de contribuição) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeRighi09&theme=radical" width="450px">
-</p>
-
-<p align="center">
-  <!-- Contribuições em gráfico -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuilhermeRighi09&theme=radical" width="450px">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,postgres,py,c" height="60" alt="tech stack" />
+</div>
 
 
 
-🌐 Conecte-se comigo
-<p align="center">
-  <a href="https://linkedin.com/in/guilherme-righi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/guirighi09"><img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=GuilhermeRighi09&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
 
 
 
-✨ Projetos em destaque
-- 📱 [Site Confeitaria](https://github.com/GuilhermeRighi09/confeitariasempredoce)
-- 🌐 [Site Empresa Fictícia](https://github.com/GuilhermeRighi09/customizer.html)
-- 📈 [Projeto em Análise de Dados](https://github.com/GuilhermeRighi09/dashboards_GuiRighi)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GuilhermeRighi09&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
 
 
 
-<!-- Rodapé com imagem de programação -->
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" 
-       width="100%" height="250px" style="object-fit: cover; border-radius: 8px; filter: brightness(80%);">
-</p>
+Sobre mim
 
-<h3 align="center">⭐️ Se você gostou do meu perfil, não esqueça de dar uma estrela nos repositórios!</h3>
+- Atualmente cursando Análise e Desenvolvimento de Sistemas
+- Estudando JavaScript, SQL e Python
+- Objetivo: me tornar um desenvolvedor completo
+
+
+
+Estatísticas Detalhadas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeRighi09&show_icons=true&theme=dracula&hide_border=true" height="160px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRighi09&layout=compact&theme=dracula&hide_border=true" height="160px">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRighi09&layout=pie&theme=dracula&hide_border=true" width="400px">
+</div>
+
+
+
+Projetos em destaque
+
+-  [Site Confeitaria](https://github.com/GuilhermeRighi09/confeitariasempredoce)
+-  [Site Empresa Fictícia](https://github.com/GuilhermeRighi09/customizer.html)
+-  [Projeto em Análise de Dados](https://github.com/GuilhermeRighi09/dashboards_GuiRighi)
+
+<br>
+
+<h3 align="center">Se você gostou do meu perfil, não esqueça de dar uma estrela nos repositórios!</h3>
