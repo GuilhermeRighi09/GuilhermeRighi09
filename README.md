@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/guilherme-righi">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://instagram.com/guirighi09">
+  <a href="https://instagram.com/guilhermedevpira">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 </div>
